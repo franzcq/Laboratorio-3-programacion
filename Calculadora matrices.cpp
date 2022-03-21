@@ -475,6 +475,7 @@ int main(){
 			opciones();
 			cin>>opcion;
 			
+			m = 1;
 			pivote = 0;
 			pivote1 = 0;
 			aux = 0;
